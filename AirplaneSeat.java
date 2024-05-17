@@ -1,6 +1,5 @@
 public class AirplaneSeat
 {
-
     //declare and initialize instance variables used in the AirplaneSeat class
     private String passengerName;
     private boolean available;
@@ -81,4 +80,3 @@ public class AirplaneSeat
         }
     }
 }
-
